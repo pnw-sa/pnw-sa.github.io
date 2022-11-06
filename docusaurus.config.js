@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'PNW Solution Architecture',
   tagline: 'The source for Enterprise Solutions',
-  url: 'https://github.com',
-  baseUrl: '/pnw-sa/',
+  url: 'https://pnw-sa.github.io',
+  baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -17,7 +17,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'pnw-sa', // Usually your GitHub org/user name.
-  projectName: 'pnw-sa', // Usually your repo name.
+  projectName: 'pnw-sa.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
 
   // Even if you don't use internalization, you can use this field to set useful
